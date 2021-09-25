@@ -1,0 +1,46 @@
+#color1{
+     color: #FF0000;
+     font-style: normal;
+     text-align: center;
+}
+.menu{
+   text-align: center;
+   background-color: gray;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.menu a{
+     background-color: white;
+}
+#section{
+      color: #3E00FF;
+      text-align: center;
+}
+#section2{
+      text-align: center;
+}
+#section3{
+      text-align: center;
+}
+ul li{
+    list-style-type: none;
+}
+.product{
+    text-align: center;
+    list-style-type: none; 
+}
+.product img{
+     border-radius: 20px;
+}
+#pid{
+     background-color: gray;
+}
+.resim{
+     text-align: center;
+}
+#center{
+     text-align: center;
+}
+#contact{
+     text-align: center;
+}
